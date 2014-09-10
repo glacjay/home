@@ -1,0 +1,18 @@
+[color]
+	ui = auto
+[user]
+	name = Jay True
+	email = glacjay@gmail.com
+[core]
+	whitespace = trailing-space,space-before-tab
+	quotepath = false
+	editor = /usr/bin/vim
+	autocrlf = input
+[diff]
+	renames = copies
+	mnemonicprefix = true
+	algorithm = minimal
+[push]
+	#default = simple
+[alias]
+	wdiff = diff --color-words

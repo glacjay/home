@@ -1,0 +1,13 @@
+[ui]
+username = Jay True <glacjay@gmail.com>
+ssh = ssh -C
+
+[hostfingerprints]
+bitbucket.org = 24:9c:45:8b:9c:aa:ba:55:4e:01:6d:58:ff:e4:28:7d:2a:14:ae:3b
+#code.google.com = e2:9e:46:29:a0:fd:3c:57:a0:68:30:c5:0a:45:97:63:bf:8d:75:fc
+#code.google.com = c1:95:6d:c8:a7:df:b2:a5:a5:69:34:da:09:77:8e:3a:11:02:33:58
+
+[extensions]
+convert =
+purge =
+progress =
